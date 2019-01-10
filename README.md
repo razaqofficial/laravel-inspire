@@ -15,7 +15,7 @@ Edit your `use` in the same way in Laravel 5.2 and backwards:
 <?php
 
 //use Illuminate\Foundation\Inspiring;
-use Abdurrazaq\Inspiring;
+use Abdurrazaq\Inspire\Inspiring;
 
 /*
 |--------------------------------------------------------------------------
