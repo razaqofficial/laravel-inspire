@@ -1,4 +1,4 @@
-# Motivational Inspiring Quotes
+# Motivational Inspiring (African)Quotes
 
 ##Installation
 Include this package via Composer:
