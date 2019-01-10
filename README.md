@@ -3,7 +3,7 @@
 ##Installation
 Include this package via Composer:
 ```console
-composer require abdurrazaq/inspiring
+composer require abdurrazaq/laravel-inspire
 ```
 ### Laravel 5.3+
 
