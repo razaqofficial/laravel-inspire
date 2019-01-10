@@ -1,0 +1,22 @@
+{
+    "name": "abdurrazaq/inspiring",
+    "description": "Motivational quotes that keeps you alive and active when coding",
+	"keywords": ["laravel", "package", "console","inspiration","inspire"],
+	"license": "MIT",
+    "authors": [
+        {
+            "name": "Razaq Ogunlade",
+            "email": "razaqofficial@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+		"php": ">=5.4.0",
+        "illuminate/support": "^5"
+	},
+	 "autoload": {
+        "psr-4": {
+            "Abdurrazaq\\Inspire\\": "src/"
+        }
+    }
+}
